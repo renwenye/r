@@ -1,0 +1,10 @@
+name = "r"
+version = "0.1.0"
+defaultTargets = ["r"]
+
+[[lean_lib]]
+name = "R"
+
+[[lean_exe]]
+name = "r"
+root = "Main"
