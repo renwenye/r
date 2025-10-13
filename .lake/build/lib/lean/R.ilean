@@ -1,0 +1,1 @@
+{"directImports":[["Mathlib",false,false,false]],"module":"R","references":{"{\"c\":{\"m\":\"Mathlib.Logic.Basic\",\"n\":\"em\"}}":{"definition":null,"usages":[[4,8,4,10]]},"{\"c\":{\"m\":\"R\",\"n\":\"chap1_4eg1\"}}":{"definition":[2,8,2,18],"usages":[]}},"version":4}

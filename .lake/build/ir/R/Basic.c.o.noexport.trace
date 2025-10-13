@@ -1,0 +1,17 @@
+{"synthetic": false,
+ "outputs": "1186645138658447675",
+ "log":
+ [{"message":
+   ".> c:\\Users\\wenye\\.elan\\toolchains\\leanprover--lean4---v4.23.0\\bin\\clang.exe -c -o D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\ir\\R\\Basic.c.o.noexport D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\ir\\R\\Basic.c -I c:\\Users\\wenye\\.elan\\toolchains\\leanprover--lean4---v4.23.0\\include -fstack-clash-protection -fwrapv -Wno-unused-command-line-argument --sysroot c:\\Users\\wenye\\.elan\\toolchains\\leanprover--lean4---v4.23.0 -nostdinc -isystem c:\\Users\\wenye\\.elan\\toolchains\\leanprover--lean4---v4.23.0/include/clang -O3 -DNDEBUG",
+   "level": "trace"}],
+ "inputs":
+ [["R.Basic:c",
+   [["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\ir\\R\\Basic.c",
+     "15536466746720669226"],
+    ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+     "5786258275165720599"]]],
+  ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+   "5786258275165720599"],
+  ["traceArgs: #[-O3, -DNDEBUG]", "7817036117363455818"],
+  ["x86_64-w64-windows-gnu", "3894966287860160785"]],
+ "depHash": "13607366440270047990"}
