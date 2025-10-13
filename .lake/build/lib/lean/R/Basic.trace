@@ -1,0 +1,25 @@
+{"synthetic": false,
+ "outputs":
+ {"o": ["8782262500659638582"],
+  "i": "15538275284770743567",
+  "c": "15536466746720669226"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\lib\\lean c:\\Users\\wenye\\.elan\\toolchains\\leanprover--lean4---v4.23.0\\bin\\lean.exe D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\R\\Basic.lean -o D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\lib\\lean\\R\\Basic.olean -i D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\lib\\lean\\R\\Basic.ilean -c D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\ir\\R\\Basic.c --setup D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\build\\ir\\R\\Basic.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["R.Basic:deps",
+   [["deps",
+     [["r/R:extraDep", [["@r:extraDep", "1723"]]], ["imports", "1723"]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.23.0, commit 50aaf682e9b74ab92880292a25c68baa1cc81c87",
+   "5786258275165720599"],
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\R\\Basic.lean",
+   "18126205365334327008"],
+  ["options", "1723"],
+  ["Module.leanArgs: #[]", "1723"]],
+ "depHash": "6147500214486957215"}
