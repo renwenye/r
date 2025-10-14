@@ -2885,6 +2885,8 @@
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\RingTheory\\FractionalIdeal\\Basic.olean"],
   "Mathlib.RingTheory.Flat.TorsionFree":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\RingTheory\\Flat\\TorsionFree.olean"],
+  "Mathlib.RingTheory.Flat.Tensor":
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\RingTheory\\Flat\\Tensor.olean"],
   "Mathlib.RingTheory.Flat.Stability":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\RingTheory\\Flat\\Stability.olean"],
   "Mathlib.RingTheory.Flat.Localization":
@@ -3357,6 +3359,8 @@
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\Probability\\Independence\\InfinitePi.olean"],
   "Mathlib.Probability.Independence.Conditional":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\Probability\\Independence\\Conditional.olean"],
+  "Mathlib.Probability.Independence.CharacteristicFunction":
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\Probability\\Independence\\CharacteristicFunction.olean"],
   "Mathlib.Probability.Independence.Basic":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\Probability\\Independence\\Basic.olean"],
   "Mathlib.Probability.IdentDistrib":
@@ -4681,6 +4685,8 @@
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\MeasureTheory\\Integral\\Layercake.olean"],
   "Mathlib.MeasureTheory.Integral.IntervalIntegral.Periodic":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\MeasureTheory\\Integral\\IntervalIntegral\\Periodic.olean"],
+  "Mathlib.MeasureTheory.Integral.IntervalIntegral.LebesgueDifferentiationThm":
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\MeasureTheory\\Integral\\IntervalIntegral\\LebesgueDifferentiationThm.olean"],
   "Mathlib.MeasureTheory.Integral.IntervalIntegral.IntegrationByParts":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\MeasureTheory\\Integral\\IntervalIntegral\\IntegrationByParts.olean"],
   "Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus":
@@ -8593,6 +8599,8 @@
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\PEmpty.olean"],
   "Mathlib.CategoryTheory.Opposites":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\Opposites.olean"],
+  "Mathlib.CategoryTheory.ObjectProperty.Small":
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\Small.olean"],
   "Mathlib.CategoryTheory.ObjectProperty.Shift":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\Shift.olean"],
   "Mathlib.CategoryTheory.ObjectProperty.Retract":
@@ -8607,6 +8615,8 @@
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\EpiMono.olean"],
   "Mathlib.CategoryTheory.ObjectProperty.ContainsZero":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\ContainsZero.olean"],
+  "Mathlib.CategoryTheory.ObjectProperty.ColimitsOfShape":
+  ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\ColimitsOfShape.olean"],
   "Mathlib.CategoryTheory.ObjectProperty.ClosedUnderIsomorphisms":
   ["D:\\academicCourse\\DiscreteMath\\lean\\test\\r\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean\\Mathlib\\CategoryTheory\\ObjectProperty\\ClosedUnderIsomorphisms.olean"],
   "Mathlib.CategoryTheory.ObjectProperty.Basic":
